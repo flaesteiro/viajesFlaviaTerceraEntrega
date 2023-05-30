@@ -321,6 +321,11 @@
   height: 100px;
   object-fit: cover;
 }
+.promos p {
+  min-height: 150px;
+  display: flex;
+  align-items: center;
+}
 
 .btn-promo {
   width: 200px;
@@ -722,3 +727,5 @@
 }
 
 /* Fin footer */
+
+/*# sourceMappingURL=styles.css.map */
